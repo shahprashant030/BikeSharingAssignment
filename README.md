@@ -1,14 +1,13 @@
 # Project Name
-> 
+> This project focuses on building a multiple linear regression model to predict the demand for shared bikes. The dataset, provided by the US bike-sharing provider BoomBikes, is analyzed to understand the factors influencing bike demand in the American market post-Covid-19 lockdown. The goal is to help BoomBikes formulate a strategic business plan to meet customer expectations and enhance revenue once the situation improves. The project involves data preparation, exploratory data analysis, model building, and evaluation, with the ultimate aim of providing valuable insights to the bike-sharing service provider.
 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Provide general information about your project here.
@@ -16,7 +15,6 @@
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -24,7 +22,6 @@
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
@@ -32,21 +29,33 @@
 - library - version 2.0
 - library - version 3.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by upGrad
+- upGrad learning platform
+- References
+    - https://stackoverflow.com/
+    - https://stackexchange.com/
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    -
+
+- This project was based on
+    - [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@shahprashant030] - feel free to contact me!
