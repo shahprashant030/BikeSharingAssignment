@@ -1,4 +1,4 @@
-# Project Name
+# Bike Sharing Assignment
 > This project focuses on building a multiple linear regression model to predict the demand for shared bikes. The dataset, provided by the US bike-sharing provider BoomBikes, is analyzed to understand the factors influencing bike demand in the American market post-Covid-19 lockdown. The goal is to help BoomBikes formulate a strategic business plan to meet customer expectations and enhance revenue once the situation improves. The project involves data preparation, exploratory data analysis, model building, and evaluation, with the ultimate aim of providing valuable insights to the bike-sharing service provider.
 
 
@@ -10,24 +10,22 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+This project focuses on the development of a multiple linear regression model to predict the demand for shared bikes in the American market post-Covid-19 lockdown. The dataset used for analysis is provided by the US bike-sharing provider BoomBikes. The primary objective is to understand the various factors influencing bike demand and, based on this understanding, assist BoomBikes in formulating a strategic business plan. The plan aims to meet customer expectations and enhance revenue once the situation improves.
+
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Temperature was the most correlated variable. So, we can tell that bike sharing count can vary with temperature
+- Final R_square turns out to be having a good score
+- All the assumptions were made perfectly and we got the perfect normalized graph for our residual.
+- Wherever required we dropped the unwanted or insignificant variables
 
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- numpy - version 1.23.5
+- pandas - version 1.5.3
+- seaborn - version 0.12.2
 
 
 ## Acknowledgements
@@ -37,24 +35,9 @@ Give credit here.
 - References
     - https://stackoverflow.com/
     - https://stackexchange.com/
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    -
-
-- This project was based on
-    - [this tutorial](https://www.example.com).
+    - https://www.questionpro.com/
+    - https://boostedml.com/
+    - https://towardsdatascience.com/
 
 
 ## Contact
